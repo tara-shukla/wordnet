@@ -84,33 +84,6 @@ ancestorSubset()            Θ(1)                   Θ(V)
 
 
 
-/* *****************************************************************************
- *  Known bugs / limitations.
- **************************************************************************** */
-n/a
-
-/* *****************************************************************************
- *  Describe whatever help (if any) that you received.
- *  Don't include readings, lectures, and precepts, but do
- *  include any help from people (including course staff, lab TAs,
- *  classmates, and friends) and attribute them by name.
- **************************************************************************** */
-Simon Lab TA
-
-/* *****************************************************************************
- *  Describe any serious problems you encountered.
- *************bb*************************************************************** */
-n/a
-
-/* *****************************************************************************
- *  If you worked with a partner, assert below that you followed
- *  the protocol as described on the assignment page. Give one
- *  sentence explaining what each of you contributed.
- **************************************************************************** */
-
-We partner coded together with one person coding and one person debugging at a
-time.
-
 
 /* *****************************************************************************
  *  List any other comments here. Feel free to provide any feedback
